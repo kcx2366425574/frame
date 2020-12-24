@@ -8,6 +8,7 @@
 """
 
 from tkinter.scrolledtext import ScrolledText
+import json
 import threading
 import tkinter
 from socket import *
@@ -19,16 +20,21 @@ global text
 
 # 发送按键的函数
 def Click_Send():
-    sendData = "{}说:{} \n".format(text, Send_Show.get())  # 获取输入内容
-    if sendData == 'quit':
+    message = Send_Show.get()
+    sendData = {
+        "name": text,
+        "message": message
+    }  # 获取输入内容
+    data_string = json.dumps(sendData)
+    if sendData.get("message") == 'quit':
         Text_Show.insert(tkinter.END, "与服务器连接已断开" + "\n")
         Text_Show.see(tkinter.END)
-        cs.sendall(bytes(sendData, encoding="utf8"))
+        cs.sendall(bytes(data_string, encoding="utf8"))
         cs.close()
     else:
-        Text_Show.insert(tkinter.END, sendData)
+        Text_Show.insert(tkinter.END, message)
         Text_Show.see(tkinter.END)
-        cs.sendall(bytes(sendData, encoding="utf8"))
+        cs.sendall(bytes(data_string, encoding="utf8"))
     Send_Show.delete(0, END)
 
 

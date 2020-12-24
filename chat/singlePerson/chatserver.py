@@ -6,6 +6,7 @@
 @Contact    :kuangcx@inspur.com
 @Description : null
 """
+import json
 import socket
 import time
 from tkinter.scrolledtext import ScrolledText
@@ -30,16 +31,19 @@ def AI_Talk(s):
 
 
 def Sever_Thread(sock, caddr):
-    Text_Show.insert('end', "客户端@" + str(caddr[1]) + "已连接!\n")
+    # Text_Show.insert('end', "客户端@" + str(caddr[1]) + "已连接!\n")
     while True:
         # 接收数据
         data = str(sock.recv(1024).decode('UTF-8'))
-        if data == "quit":
-            Text_Show.insert('end', "客户端@" + str(caddr[1]) + "终止了对话\n")
+        data_dict = json.loads(data)
+        name = data_dict.get("name")
+        message = data_dict.get("message")
+        if data_dict.get("message") == "quit":
+            Text_Show.insert('end', "{}终止了对话\n".format(name))
             Text_Show.see(tkinter.END)
             break
         else:
-            Text_Show.insert('end', "来自客户端@" + str(caddr[1]) + "的消息为：" + data + '\n')
+            Text_Show.insert('end', "{}：{}\n".format(name, message))
             Text_Show.see(tkinter.END)
             # 发送数据
         time.sleep(0.2)
@@ -69,15 +73,14 @@ def Sever_Init():
     Thread1.daemon = True  # 线程守护
     Thread1.start()
 
-    # 主函数
 
-
+# 主函数
 if __name__ == "__main__":
     root = tkinter.Tk()
     root.title("聊天小程序服务器端 ")
     frame1 = Frame(root)
     frame1.pack()
-    IP_Show_Label = Label(frame1, text="默认IP:127.0.0.1\n默认端口为6000\n无法更改!!!")
+    IP_Show_Label = Label(frame1)
     IP_Show_Label.pack(side='left')
     frame2 = Frame(root)
     frame2.pack()

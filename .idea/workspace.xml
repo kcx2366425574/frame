@@ -3522,24 +3522,10 @@
       <change afterPath="$PROJECT_DIR$/../../exe/python/include/pygame/surface.h" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ceilometer" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../chineseocr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/frame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat/chatclient.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat/chatserver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commonfunction/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commonfunction/mathfunction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logutil.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_commonfunction.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webutils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webutils/logrecord.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat/multiplePerson/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat/multiplePerson/chatclient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat/multiplePerson/chatserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat/singlePerson/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../gocode/.idea/gocode.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../gocode/interfaceDemo/interfaceDemo.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../gocode/iotaDemo.go" afterDir="false" />
@@ -3726,6 +3712,10 @@
       <change afterPath="$PROJECT_DIR$/../../pycode/prog.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../工作簿1.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../charm-neutron-gateway/hooks/neutron_contexts.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../charm-neutron-gateway/hooks/neutron_contexts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/chatclient.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/singlePerson/chatclient.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/chatserver.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/singlePerson/chatserver.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -3740,7 +3730,14 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/kcx2366425574/frame.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1lxJDnfJGZdTKGk5k4AdCBh9Jv7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -3758,6 +3755,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\gitcode\frame\chat\singlePerson" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.chatclient">
     <configuration name="chatclient" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="frame" />
@@ -3771,7 +3773,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chat/chatclient.py" />
+      <option name="SCRIPT_NAME" value="D:\gitcode\frame\chat\singlePerson\chatclient.py" />
       <option name="PARAMETERS" value="kuangcx" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -3792,7 +3794,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chat/chatserver.py" />
+      <option name="SCRIPT_NAME" value="D:\gitcode\frame\chat\singlePerson\chatserver.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -3845,22 +3847,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1608716824745" />
-    <state width="1237" height="102" key="GridCell.Tab.0.bottom" timestamp="1608717447273">
+    <state width="1237" height="102" key="GridCell.Tab.0.bottom" timestamp="1608777645285">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="102" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1608717447273" />
-    <state width="1237" height="102" key="GridCell.Tab.0.center" timestamp="1608717447273">
+    <state width="1237" height="102" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1608777645285" />
+    <state width="1237" height="102" key="GridCell.Tab.0.center" timestamp="1608777645284">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="102" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1608717447273" />
-    <state width="1237" height="102" key="GridCell.Tab.0.left" timestamp="1608717447273">
+    <state width="1237" height="102" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1608777645284" />
+    <state width="1237" height="102" key="GridCell.Tab.0.left" timestamp="1608777645284">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="102" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1608717447273" />
-    <state width="1237" height="102" key="GridCell.Tab.0.right" timestamp="1608717447273">
+    <state width="1237" height="102" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1608777645284" />
+    <state width="1237" height="102" key="GridCell.Tab.0.right" timestamp="1608777645285">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="102" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1608717447273" />
+    <state width="1237" height="102" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1608777645285" />
     <state width="1237" height="116" key="GridCell.Tab.1.bottom" timestamp="1608717303178">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
