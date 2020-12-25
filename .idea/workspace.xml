@@ -72,8 +72,6 @@
       <change afterPath="$PROJECT_DIR$/../../exe/Tiled/util/java/tmxviewer-java/tmxviewer-java.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/ccwork/node_modules/match-stream/.idea/match-stream.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/ccwork/node_modules/unzip/node_modules/match-stream/.idea/match-stream.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../exe/centos/564d9209-7fe0-9584-936a-d9e2151ad9e2.vmem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../exe/centos/564d9209-7fe0-9584-936a-d9e2151ad9e2.vmem.lck/M29876.lck" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/Babel-2.9.0.dist-info/INSTALLER" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/Babel-2.9.0.dist-info/LICENSE" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/Babel-2.9.0.dist-info/METADATA" afterDir="false" />
@@ -89,6 +87,11 @@
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/DBUtils-2.0.dist-info/REQUESTED" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/DBUtils-2.0.dist-info/WHEEL" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/DBUtils-2.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/MouseInfo-0.1.3.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/MouseInfo-0.1.3.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/MouseInfo-0.1.3.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/MouseInfo-0.1.3.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/MouseInfo-0.1.3.dist-info/top_level.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/MySQLdb/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/MySQLdb/_exceptions.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/MySQLdb/_mysql.cp37-win_amd64.pyd" afterDir="false" />
@@ -225,6 +228,23 @@
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/Pillow-7.2.0.dist-info/WHEEL" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/Pillow-7.2.0.dist-info/top_level.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/Pillow-7.2.0.dist-info/zip-safe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyAutoGUI-0.9.52.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyAutoGUI-0.9.52.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyAutoGUI-0.9.52.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyAutoGUI-0.9.52.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyAutoGUI-0.9.52.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyAutoGUI-0.9.52.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyAutoGUI-0.9.52.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyGetWindow-0.0.9.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyGetWindow-0.0.9.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyGetWindow-0.0.9.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyGetWindow-0.0.9.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyGetWindow-0.0.9.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyMsgBox-1.0.9.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyMsgBox-1.0.9.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyMsgBox-1.0.9.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyMsgBox-1.0.9.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyMsgBox-1.0.9.dist-info/top_level.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyMySQL-0.10.1.dist-info/INSTALLER" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyMySQL-0.10.1.dist-info/LICENSE" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyMySQL-0.10.1.dist-info/METADATA" afterDir="false" />
@@ -233,12 +253,53 @@
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyMySQL-0.10.1.dist-info/WHEEL" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyMySQL-0.10.1.dist-info/pbr.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyMySQL-0.10.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyRect-0.1.4.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyRect-0.1.4.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyRect-0.1.4.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyRect-0.1.4.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyRect-0.1.4.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyScreeze-0.1.26.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyScreeze-0.1.26.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyScreeze-0.1.26.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyScreeze-0.1.26.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyScreeze-0.1.26.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyScreeze-0.1.26.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyTweening-1.0.3.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyTweening-1.0.3.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyTweening-1.0.3.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyTweening-1.0.3.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyTweening-1.0.3.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/PyWin32.chm" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/Routes-2.5.1.dist-info/INSTALLER" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/Routes-2.5.1.dist-info/LICENSE.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/Routes-2.5.1.dist-info/METADATA" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/Routes-2.5.1.dist-info/RECORD" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/Routes-2.5.1.dist-info/WHEEL" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/Routes-2.5.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/_distutils_hack/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/_distutils_hack/override.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/adodbapi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/adodbapi/ado_consts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/adodbapi/adodbapi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/adodbapi/apibase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/adodbapi/examples/db_print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/adodbapi/examples/db_table_names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/adodbapi/examples/xls_read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/adodbapi/examples/xls_write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/adodbapi/is64bit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/adodbapi/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/adodbapi/process_connect_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/adodbapi/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/adodbapi/remote.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/adodbapi/schema_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/adodbapi/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/adodbapi/test/adodbapitest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/adodbapi/test/adodbapitestconfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/adodbapi/test/dbapi20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/adodbapi/test/is64bit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/adodbapi/test/setuptestframework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/adodbapi/test/test_adodbapi_dbapi20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/adodbapi/test/tryconnection.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/aip/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/aip/base.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/aip/bodyanalysis.py" afterDir="false" />
@@ -1275,6 +1336,7 @@
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/dbutils/simple_pooled_pg.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/dbutils/steady_db.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/dbutils/steady_pg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/distutils-precedence.pth" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/dns/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/dns/_compat.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/dns/dnssec.py" afterDir="false" />
@@ -1380,6 +1442,7 @@
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/dnspython-1.16.0.dist-info/WHEEL" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/dnspython-1.16.0.dist-info/metadata.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/dnspython-1.16.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/easy_install.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/eventlet-0.28.0.dist-info/AUTHORS" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/eventlet-0.28.0.dist-info/INSTALLER" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/eventlet-0.28.0.dist-info/LICENSE" afterDir="false" />
@@ -1543,6 +1606,22 @@
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/influxdb/tests/server_tests/client_test_with_server.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/influxdb/tests/server_tests/influxdb_instance.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/influxdb/tests/test_line_protocol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/isapi/PyISAPI_loader.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/isapi/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/isapi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/isapi/doc/isapi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/isapi/install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/isapi/isapicon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/isapi/samples/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/isapi/samples/advanced.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/isapi/samples/redirector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/isapi/samples/redirector_asynch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/isapi/samples/redirector_with_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/isapi/samples/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/isapi/simple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/isapi/test/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/isapi/test/extension_simple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/isapi/threaded_extension.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/kombu-5.0.2.dist-info/INSTALLER" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/kombu-5.0.2.dist-info/LICENSE" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/kombu-5.0.2.dist-info/METADATA" afterDir="false" />
@@ -1641,6 +1720,8 @@
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/loky/backend/utils.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/mathfunction.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/module_commonfunction.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/mouseinfo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/mouseinfo/__main__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/msgpack-0.6.1.dist-info/COPYING" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/msgpack-0.6.1.dist-info/INSTALLER" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/msgpack-0.6.1.dist-info/METADATA" afterDir="false" />
@@ -1834,6 +1915,61 @@
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/paste/util/threadinglocal.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/paste/wsgilib.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/paste/wsgiwrappers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pip-20.3.3.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pip-20.3.3.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pip-20.3.3.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pip-20.3.3.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pip-20.3.3.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pip-20.3.3.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pip-20.3.3.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pip/_internal/network/lazy_wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pip/_internal/resolution/resolvelib/found_candidates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pip/_internal/resolution/resolvelib/reporter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pip/_internal/utils/datetime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pip/_internal/utils/parallel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pip/_vendor/resolvelib/compat/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pip/_vendor/resolvelib/compat/collections_abc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pip/_vendor/urllib3/_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pip/_vendor/urllib3/util/proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pip/_vendor/urllib3/util/ssltransport.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/_vendor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/_vendor/appdirs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/_vendor/packaging/__about__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/_vendor/packaging/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/_vendor/packaging/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/_vendor/packaging/_structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/_vendor/packaging/_typing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/_vendor/packaging/markers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/_vendor/packaging/requirements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/_vendor/packaging/specifiers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/_vendor/packaging/tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/_vendor/packaging/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/_vendor/packaging/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/_vendor/pyparsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/_vendor/vendored.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/api_tests.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/extern/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/tests/data/my-test-package-source/setup.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/tests/data/my-test-package-source/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/tests/data/my-test-package_unpacked-egg/my_test_package-1.0-py3.7.egg/EGG-INFO/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/tests/data/my-test-package_unpacked-egg/my_test_package-1.0-py3.7.egg/EGG-INFO/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/tests/data/my-test-package_unpacked-egg/my_test_package-1.0-py3.7.egg/EGG-INFO/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/tests/data/my-test-package_unpacked-egg/my_test_package-1.0-py3.7.egg/EGG-INFO/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/tests/data/my-test-package_unpacked-egg/my_test_package-1.0-py3.7.egg/EGG-INFO/zip-safe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/tests/data/my-test-package_zipped-egg/my_test_package-1.0-py3.7.egg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/tests/test_find_distributions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/tests/test_markers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/tests/test_pkg_resources.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/tests/test_resources.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pkg_resources/tests/test_working_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pyautogui/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pyautogui/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pyautogui/_pyautogui_java.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pyautogui/_pyautogui_osx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pyautogui/_pyautogui_win.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pyautogui/_pyautogui_x11.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pygame-1.9.6.dist-info/INSTALLER" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pygame-1.9.6.dist-info/METADATA" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pygame-1.9.6.dist-info/RECORD" afterDir="false" />
@@ -2133,6 +2269,9 @@
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pygame/transform.cp37-win_amd64.pyd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pygame/version.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pygame/zlib1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pygetwindow/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pygetwindow/_pygetwindow_macos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pygetwindow/_pygetwindow_win.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pyglet-1.5.7.dist-info/INSTALLER" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pyglet-1.5.7.dist-info/LICENSE" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pyglet-1.5.7.dist-info/METADATA" afterDir="false" />
@@ -2323,6 +2462,8 @@
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pyinfluxdb/errors.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pyinfluxdb/measurement.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pyinfluxdb/static.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pymsgbox/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pymsgbox/_native_win.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pymysql/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pymysql/_auth.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pymysql/_compat.py" afterDir="false" />
@@ -2344,6 +2485,25 @@
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pymysql/protocol.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pymysql/times.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pymysql/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pyperclip-1.8.1.dist-info/AUTHORS.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pyperclip-1.8.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pyperclip-1.8.1.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pyperclip-1.8.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pyperclip-1.8.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pyperclip-1.8.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pyperclip-1.8.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pyperclip/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pyperclip/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pypiwin32-223.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pypiwin32-223.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pypiwin32-223.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pypiwin32-223.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pypiwin32-223.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pypiwin32-223.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pypiwin32-223.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pypiwin32-223.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pyrect/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pyscreeze/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pytesseract-0.3.6.dist-info/INSTALLER" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pytesseract-0.3.6.dist-info/LICENSE" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pytesseract-0.3.6.dist-info/METADATA" afterDir="false" />
@@ -2354,6 +2514,133 @@
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pytesseract-0.3.6.dist-info/top_level.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pytesseract/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pytesseract/pytesseract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythoncom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/Pythonwin.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/dde.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/mfc140u.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/mfcm140u.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/Demos/app/basictimerapp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/Demos/app/customprint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/Demos/app/demoutils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/Demos/app/dlgappdemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/Demos/app/dojobapp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/Demos/app/helloapp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/Demos/cmdserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/Demos/createwin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/Demos/demoutils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/Demos/dibdemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/Demos/dlgtest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/Demos/dyndlg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/Demos/fontdemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/Demos/guidemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/Demos/hiertest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/Demos/menutest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/Demos/objdoc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/Demos/ocx/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/Demos/ocx/demoutils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/Demos/ocx/flash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/Demos/ocx/msoffice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/Demos/ocx/ocxserialtest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/Demos/ocx/ocxtest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/Demos/ocx/webbrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/Demos/openGLDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/Demos/progressbar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/Demos/sliderdemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/Demos/splittst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/Demos/threadedgui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/Demos/toolbar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/IDLE.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/debugger/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/debugger/configui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/debugger/dbgcon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/debugger/dbgpyapp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/debugger/debugger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/debugger/fail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/default.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/dialogs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/dialogs/ideoptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/dialogs/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/dialogs/login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/dialogs/status.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/docking/DockingBar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/docking/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/framework/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/framework/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/framework/bitmap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/framework/cmdline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/framework/dbgcommands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/framework/dlgappcore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/framework/editor/ModuleBrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/framework/editor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/framework/editor/color/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/framework/editor/color/coloreditor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/framework/editor/configui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/framework/editor/document.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/framework/editor/editor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/framework/editor/frame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/framework/editor/template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/framework/editor/vss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/framework/help.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/framework/interact.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/framework/intpyapp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/framework/intpydde.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/framework/mdi_pychecker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/framework/scriptutils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/framework/sgrepmdi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/framework/startup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/framework/stdin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/framework/toolmenu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/framework/window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/framework/winout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/idle/AutoExpand.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/idle/AutoIndent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/idle/CallTips.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/idle/FormatParagraph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/idle/IdleHistory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/idle/PyParse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/idle/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/mfc/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/mfc/activex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/mfc/afxres.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/mfc/dialog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/mfc/docview.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/mfc/object.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/mfc/thread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/mfc/window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/scintilla/IDLEenvironment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/scintilla/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/scintilla/bindings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/scintilla/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/scintilla/configui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/scintilla/control.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/scintilla/document.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/scintilla/find.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/scintilla/formatter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/scintilla/keycodes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/scintilla/scintillacon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/scintilla/view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/tools/TraceCollector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/tools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/tools/browseProjects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/tools/browser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/tools/hierlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/tools/regedit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/pywin/tools/regpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/scintilla.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/win32ui.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pythonwin/win32uiole.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pytweening/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pywin32-300.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pywin32-300.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pywin32-300.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pywin32-300.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pywin32-300.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pywin32.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pywin32.version.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pywin32_system32/pythoncom37.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/pywin32_system32/pywintypes37.dll" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/repoze.lru-0.7-py3.6-nspkg.pth" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/repoze.lru-0.7.dist-info/DESCRIPTION.rst" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/repoze.lru-0.7.dist-info/INSTALLER" afterDir="false" />
@@ -3452,6 +3739,250 @@
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/scipy/stats/tests/test_stats.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/scipy/stats/tests/test_tukeylambda_stats.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/scipy/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools-51.1.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools-51.1.0.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools-51.1.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools-51.1.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools-51.1.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools-51.1.0.dist-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools-51.1.0.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools-51.1.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_deprecation_warning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/_msvccompiler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/archive_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/bcppcompiler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/ccompiler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/cmd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/bdist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/bdist_dumb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/bdist_msi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/bdist_rpm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/bdist_wininst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/build.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/build_clib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/build_ext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/build_py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/build_scripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/clean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/install_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/install_egg_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/install_headers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/install_lib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/install_scripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/py37compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/register.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/sdist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/upload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/wininst-10.0-amd64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/wininst-10.0.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/wininst-14.0-amd64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/wininst-14.0.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/wininst-6.0.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/wininst-7.1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/wininst-8.0.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/wininst-9.0-amd64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/command/wininst-9.0.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/cygwinccompiler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/debug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/dep_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/dir_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/dist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/errors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/extension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/fancy_getopt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/file_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/filelist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/msvc9compiler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/msvccompiler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/py35compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/py38compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/spawn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/sysconfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/py35compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/py38compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/support.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_archive_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_bdist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_bdist_dumb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_bdist_msi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_bdist_rpm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_bdist_wininst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_build.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_build_clib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_build_ext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_build_py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_build_scripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_clean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_cmd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_config_cmd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_cygwinccompiler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_dep_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_dir_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_dist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_extension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_file_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_filelist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_install_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_install_headers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_install_lib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_install_scripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_msvc9compiler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_msvccompiler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_register.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_sdist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_spawn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_sysconfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_text_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_unixccompiler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_upload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/tests/test_versionpredicate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/text_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/unixccompiler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_distutils/versionpredicate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_imp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_vendor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_vendor/ordered_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_vendor/packaging/__about__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_vendor/packaging/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_vendor/packaging/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_vendor/packaging/_structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_vendor/packaging/_typing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_vendor/packaging/markers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_vendor/packaging/requirements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_vendor/packaging/specifiers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_vendor/packaging/tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_vendor/packaging/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_vendor/packaging/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_vendor/pyparsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/_vendor/vendored.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/archive_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/build_meta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/cli-32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/cli-64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/cli.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/command/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/command/alias.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/command/bdist_egg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/command/bdist_rpm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/command/bdist_wininst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/command/build_clib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/command/build_ext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/command/build_py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/command/develop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/command/dist_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/command/easy_install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/command/egg_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/command/install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/command/install_egg_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/command/install_lib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/command/install_scripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/command/launcher manifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/command/py36compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/command/register.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/command/rotate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/command/saveopts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/command/sdist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/command/setopt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/command/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/command/upload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/command/upload_docs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/dep_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/depends.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/dist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/errors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/extension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/extern/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/glob.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/gui-32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/gui-64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/gui.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/installer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/launch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/lib2to3_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/monkey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/msvc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/namespaces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/package_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/py34compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/sandbox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/script (dev).tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/script.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/ssl_support.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/contexts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/environment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/fixtures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/indexes/test_links_priority/external.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/indexes/test_links_priority/simple/foobar/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/mod_with_constant.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/namespaces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/script-with-bom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_archive_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_bdist_deprecations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_bdist_egg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_build_clib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_build_ext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_build_meta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_build_py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_dep_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_depends.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_develop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_dist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_dist_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_distutils_adoption.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_easy_install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_egg_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_extern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_find_packages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_glob.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_install_scripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_integration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_manifest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_msvc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_msvc14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_namespaces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_packageindex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_register.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_sandbox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_sdist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_setopt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_setuptools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_unicode_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_upload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_upload_docs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_virtualenv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/test_windows_wrappers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/tests/textwrap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/unicode_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/setuptools/windows_support.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/statsd-3.3.0.dist-info/INSTALLER" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/statsd-3.3.0.dist-info/METADATA" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/statsd-3.3.0.dist-info/RECORD" afterDir="false" />
@@ -3479,8 +4010,439 @@
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/vine/promises.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/vine/synchronization.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/vine/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/BackupRead_BackupWrite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/BackupSeek_streamheaders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/CopyFileEx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/CreateFileTransacted_MiniVersion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/EvtFormatMessage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/EvtSubscribe_pull.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/EvtSubscribe_push.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/FileSecurityTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/GetSaveFileName.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/NetValidatePasswordPolicy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/OpenEncryptedFileRaw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/RegCreateKeyTransacted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/RegRestoreKey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/SystemParametersInfo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/c_extension/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/cerapi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/dde/ddeclient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/dde/ddeserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/desktopmanager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/eventLogDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/getfilever.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/images/frowny.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/images/smiley.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/mmapfile_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/pipes/cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/pipes/runproc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/print_desktop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/rastest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/security/GetTokenInformation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/security/account_rights.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/security/explicit_entries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/security/get_policy_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/security/list_rights.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/security/localized_names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/security/lsaregevent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/security/lsastore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/security/query_information.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/security/regsave_sa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/security/regsecurity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/security/sa_inherit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/security/security_enums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/security/set_file_audit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/security/set_file_owner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/security/set_policy_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/security/setkernelobjectsecurity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/security/setnamedsecurityinfo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/security/setsecurityinfo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/security/setuserobjectsecurity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/security/sspi/fetch_url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/security/sspi/simple_auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/security/sspi/socket_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/security/sspi/validate_password.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/service/nativePipeTestService.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/service/pipeTestService.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/service/pipeTestServiceClient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/service/serviceEvents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/timer_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/win32clipboardDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/win32clipboard_bitmapdemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/win32comport_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/win32console_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/win32cred_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/win32fileDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/win32gui_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/win32gui_devicenotify.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/win32gui_dialog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/win32gui_menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/win32gui_taskbar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/win32netdemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/win32rcparser_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/win32servicedemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/win32ts_logoff_disconnected.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/win32wnet/testwnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/win32wnet/winnetwk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/Demos/winprocess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/_win32sysloader.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/_winxptheme.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/include/PyWinTypes.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/afxres.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/commctrl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/dbi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/mmsystem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/netbios.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/ntsecuritycon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/pywin32_bootstrap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/pywin32_testutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/pywintypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/rasutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/regcheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/regutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/sspi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/sspicon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/win32con.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/win32cryptcon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/win32evtlogutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/win32gui_struct.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/win32inetcon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/win32netcon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/win32pdhquery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/win32pdhutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/win32rcparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/win32serviceutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/win32timezone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/win32traceutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/win32verstamp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/winerror.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/winioctlcon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/winnt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/winperf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/lib/winxptheme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/libs/pywintypes.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/mmapfile.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/odbc.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/perfmon.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/perfmondata.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/pythonservice.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/scripts/ControlService.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/scripts/VersionStamp/BrandProject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/scripts/VersionStamp/bulkstamp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/scripts/VersionStamp/vssutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/scripts/backupEventLog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/scripts/ce/pysynch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/scripts/killProcName.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/scripts/rasutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/scripts/regsetup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/scripts/setup_d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/servicemanager.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/test/handles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/test/test_clipboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/test/test_exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/test/test_odbc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/test/test_pywintypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/test/test_security.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/test/test_sspi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/test/test_win32api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/test/test_win32crypt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/test/test_win32event.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/test/test_win32file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/test/test_win32gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/test/test_win32guistruct.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/test/test_win32inet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/test/test_win32net.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/test/test_win32pipe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/test/test_win32rcparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/test/test_win32timezone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/test/test_win32trace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/test/test_win32wnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/test/testall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/test/win32rcparser/python.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/test/win32rcparser/python.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/test/win32rcparser/test.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/test/win32rcparser/test.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/timer.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/win2kras.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/win32api.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/win32clipboard.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/win32console.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/win32cred.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/win32crypt.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/win32event.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/win32evtlog.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/win32file.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/win32gui.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/win32help.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/win32inet.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/win32job.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/win32lz.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/win32net.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/win32pdh.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/win32pipe.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/win32print.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/win32process.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/win32profile.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/win32ras.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/win32security.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/win32service.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/win32trace.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/win32transaction.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/win32ts.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/win32wnet.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32/winxpgui.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/HTML/GeneratedSupport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/HTML/PythonCOM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/HTML/QuickStartClientCom.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/HTML/QuickStartServerCom.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/HTML/docindex.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/HTML/image/BTN_HomePage.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/HTML/image/BTN_ManualTop.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/HTML/image/BTN_NextPage.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/HTML/image/BTN_PrevPage.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/HTML/image/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/HTML/image/pycom_blowing.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/HTML/image/pythoncom.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/HTML/image/www_icon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/HTML/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/HTML/misc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/HTML/package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/HTML/variant.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/client/CLSIDToClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/client/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/client/build.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/client/combrowse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/client/connect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/client/dynamic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/client/gencache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/client/genpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/client/makepy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/client/selecttlb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/client/tlbrowse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/client/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/demos/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/demos/connect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/demos/dump_clipboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/demos/eventsApartmentThreaded.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/demos/eventsFreeThreaded.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/demos/excelAddin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/demos/excelRTDServer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/demos/iebutton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/demos/ietoolbar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/demos/outlookAddin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/demos/trybag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/include/PythonCOM.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/include/PythonCOMRegister.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/include/PythonCOMServer.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/libs/axscript.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/libs/pythoncom.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/makegw/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/makegw/makegw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/makegw/makegwenum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/makegw/makegwparse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/olectl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/readme.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/server/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/server/connect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/server/dispatcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/server/exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/server/factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/server/localserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/server/policy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/server/register.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/server/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/servers/PythonTools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/servers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/servers/dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/servers/interp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/servers/perfmon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/servers/test_pycomtest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/storagecon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/GenTestScripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/Testpys.sct" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/daodump.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/errorSemantics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/pippo.idl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/pippo_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/policySemantics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testADOEvents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testAXScript.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testAccess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testArrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testClipboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testCollections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testConversionErrors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testDCOM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testDates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testDictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testDictionary.vbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testDynamic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testExchange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testExplorer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testGIT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testGatewayAddresses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testInterp.vbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testIterators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testMSOffice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testMSOfficeEvents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testMarshal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testNetscape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testPersist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testPippo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testPyComTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testPyScriptlet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testROT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testServers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testShell.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testStorage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testStreams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testWMI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testmakepy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testvb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testvbscript_regexp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testxslt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testxslt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/testxslt.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/test/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/universal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32com/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/adsi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/adsi/adsi.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/adsi/adsicon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/adsi/demos/objectPicker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/adsi/demos/scp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/adsi/demos/search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/adsi/demos/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/authorization/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/authorization/authorization.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/authorization/demos/EditSecurity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/authorization/demos/EditServiceSecurity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axcontrol/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axcontrol/axcontrol.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axdebug/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axdebug/adb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axdebug/axdebug.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axdebug/codecontainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axdebug/contexts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axdebug/debugger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axdebug/documents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axdebug/dump.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axdebug/expressions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axdebug/gateways.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axdebug/stackframe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axdebug/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/Demos/client/asp/CreateObject.asp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/Demos/client/asp/caps.asp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/Demos/client/asp/interrupt/test.asp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/Demos/client/asp/interrupt/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/Demos/client/asp/interrupt/test1.asp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/Demos/client/asp/interrupt/test1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/Demos/client/asp/tut1.asp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/Demos/client/ie/MarqueeText1.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/Demos/client/ie/calc.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/Demos/client/ie/dbgtest.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/Demos/client/ie/demo.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/Demos/client/ie/demo_check.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/Demos/client/ie/demo_intro.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/Demos/client/ie/demo_menu.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/Demos/client/ie/docwrite.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/Demos/client/ie/foo2.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/Demos/client/ie/form.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/Demos/client/ie/marqueeDemo.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/Demos/client/ie/mousetrack.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/Demos/client/ie/pycom_blowing.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/Demos/client/wsh/blank.pys" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/Demos/client/wsh/excel.pys" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/Demos/client/wsh/registry.pys" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/Demos/client/wsh/test.pys" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/asputil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/axscript.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/client/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/client/debug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/client/error.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/client/framework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/client/pydumper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/client/pyscript.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/client/pyscript_rexec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/client/scriptdispatch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/server/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/server/axsite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/server/error.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/test/debugTest.pys" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/test/debugTest.vbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/test/leakTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/test/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/test/testHost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/axscript/test/testHost4Dbg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/bits/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/bits/bits.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/bits/test/show_all_jobs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/bits/test/test_bits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/directsound/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/directsound/directsound.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/directsound/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/directsound/test/ds_record.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/directsound/test/ds_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/ifilter/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/ifilter/demo/filterDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/ifilter/ifilter.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/ifilter/ifiltercon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/internet/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/internet/inetcon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/internet/internet.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/mapi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/mapi/demos/mapisend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/mapi/emsabtags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/mapi/exchange.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/mapi/mapi.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/mapi/mapitags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/mapi/mapiutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/propsys/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/propsys/propsys.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/propsys/pscon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/propsys/test/testpropsys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/shell/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/shell/demos/IActiveDesktop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/shell/demos/IFileOperationProgressSink.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/shell/demos/IShellLinkDataList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/shell/demos/ITransferAdviseSink.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/shell/demos/IUniformResourceLocator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/shell/demos/browse_for_folder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/shell/demos/create_link.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/shell/demos/dump_link.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/shell/demos/explorer_browser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/shell/demos/servers/column_provider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/shell/demos/servers/context_menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/shell/demos/servers/copy_hook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/shell/demos/servers/empty_volume_cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/shell/demos/servers/folder_view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/shell/demos/servers/icon_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/shell/demos/servers/shell_view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/shell/demos/shellexecuteex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/shell/demos/viewstate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/shell/demos/walk_shell_folders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/shell/shell.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/shell/shellcon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/shell/test/testSHFileOperation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/shell/test/testShellFolder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/shell/test/testShellItem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/taskscheduler/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/taskscheduler/taskscheduler.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/taskscheduler/test/test_addtask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/taskscheduler/test/test_addtask_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/taskscheduler/test/test_addtask_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/win32comext/taskscheduler/test/test_localsystem.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Scripts/alembic.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Scripts/convert-json.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Scripts/easy_install-3.7.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Scripts/easy_install.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Scripts/futurize.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Scripts/mako-render.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Scripts/migrate-repository.exe" afterDir="false" />
@@ -3499,6 +4461,8 @@
       <change afterPath="$PROJECT_DIR$/../../exe/python/Scripts/pbr.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Scripts/pybabel.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Scripts/pytesseract.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Scripts/pywin32_postinstall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Scripts/pywin32_testall.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Scripts/sqlformat.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Scripts/unit2.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/include/greenlet/greenlet.h" afterDir="false" />
@@ -3522,10 +4486,13 @@
       <change afterPath="$PROJECT_DIR$/../../exe/python/include/pygame/surface.h" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ceilometer" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../chineseocr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat/multiplePerson/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat/multiplePerson/chatclient.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat/multiplePerson/chatserver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat/singlePerson/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat/serversocket_test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat/serversocket_test/client_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat/serversocket_test/serversocket_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat/socket/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/window/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/window/click_hwnd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/window/getWindow.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../gocode/.idea/gocode.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../gocode/interfaceDemo/interfaceDemo.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../gocode/iotaDemo.go" afterDir="false" />
@@ -3712,10 +4679,14 @@
       <change afterPath="$PROJECT_DIR$/../../pycode/prog.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../工作簿1.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../charm-neutron-gateway/hooks/neutron_contexts.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../charm-neutron-gateway/hooks/neutron_contexts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat/chatclient.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/singlePerson/chatclient.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat/chatserver.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/singlePerson/chatserver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/multiplePerson/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/socket/multiplePerson/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/multiplePerson/chatclient.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/socket/multiplePerson/chatclient.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/multiplePerson/chatserver.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/socket/multiplePerson/chatserver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/singlePerson/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/socket/singlePerson/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/singlePerson/chatclient.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/socket/singlePerson/chatclient.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/singlePerson/chatserver.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/socket/singlePerson/chatserver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webutils/logrecord.py" beforeDir="false" afterPath="$PROJECT_DIR$/webutils/logrecord.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -3731,6 +4702,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="hiddenUrls">
@@ -3752,16 +4724,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../telegraf" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\gitcode\frame\chat\socket" />
       <recent name="D:\gitcode\frame\chat\singlePerson" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.chatclient">
-    <configuration name="chatclient" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.click_hwnd">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="frame" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -3769,12 +4742,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chat" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\gitcode\frame\chat\singlePerson\chatclient.py" />
-      <option name="PARAMETERS" value="kuangcx" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db/__init__.py" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -3782,7 +4755,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="chatserver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="click_hwnd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="frame" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -3790,11 +4763,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chat" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/window" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\gitcode\frame\chat\singlePerson\chatserver.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/window/click_hwnd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="client_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="frame" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chat/serversocket_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chat/serversocket_test/client_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getWindow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="frame" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/window" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/window/getWindow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="logrecord" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="frame" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webutils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webutils/logrecord.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -3804,13 +4840,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.chatclient" />
-      <item itemvalue="Python.chatserver" />
+      <item itemvalue="Python.client_demo" />
+      <item itemvalue="Python.getWindow" />
+      <item itemvalue="Python.logrecord" />
+      <item itemvalue="Python.__init__" />
+      <item itemvalue="Python.click_hwnd" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.chatclient" />
-        <item itemvalue="Python.chatserver" />
+        <item itemvalue="Python.click_hwnd" />
+        <item itemvalue="Python.getWindow" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.logrecord" />
+        <item itemvalue="Python.client_demo" />
       </list>
     </recent_temporary>
   </component>
@@ -3847,37 +4889,64 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1608716824745" />
-    <state width="1237" height="102" key="GridCell.Tab.0.bottom" timestamp="1608777645285">
+    <state x="121" y="50" key="DiffContextDialog" timestamp="1608795591464">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="102" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1608777645285" />
-    <state width="1237" height="102" key="GridCell.Tab.0.center" timestamp="1608777645284">
+    <state x="121" y="50" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1608795591464" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1608859009352">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="102" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1608777645284" />
-    <state width="1237" height="102" key="GridCell.Tab.0.left" timestamp="1608777645284">
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1608859009352" />
+    <state width="795" height="194" key="GridCell.Tab.0.bottom" timestamp="1608875491777">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="102" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1608777645284" />
-    <state width="1237" height="102" key="GridCell.Tab.0.right" timestamp="1608777645285">
+    <state width="795" height="194" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1608875491777" />
+    <state width="795" height="194" key="GridCell.Tab.0.center" timestamp="1608875491776">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="102" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1608777645285" />
-    <state width="1237" height="116" key="GridCell.Tab.1.bottom" timestamp="1608717303178">
+    <state width="795" height="194" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1608875491776" />
+    <state width="795" height="194" key="GridCell.Tab.0.left" timestamp="1608875491776">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="116" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1608717303178" />
-    <state width="1237" height="116" key="GridCell.Tab.1.center" timestamp="1608717303178">
+    <state width="795" height="194" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1608875491776" />
+    <state width="795" height="194" key="GridCell.Tab.0.right" timestamp="1608875491777">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="116" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1608717303178" />
-    <state width="1237" height="116" key="GridCell.Tab.1.left" timestamp="1608717303178">
+    <state width="795" height="194" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1608875491777" />
+    <state width="1237" height="200" key="GridCell.Tab.1.bottom" timestamp="1608866214916">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="116" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1608717303178" />
-    <state width="1237" height="116" key="GridCell.Tab.1.right" timestamp="1608717303178">
+    <state width="1237" height="200" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1608866214916" />
+    <state width="1237" height="200" key="GridCell.Tab.1.center" timestamp="1608866214916">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="116" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1608717303178" />
+    <state width="1237" height="200" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1608866214916" />
+    <state width="1237" height="200" key="GridCell.Tab.1.left" timestamp="1608866214916">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="200" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1608866214916" />
+    <state width="1237" height="200" key="GridCell.Tab.1.right" timestamp="1608866214916">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="200" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1608866214916" />
+    <state x="323" y="0" key="RollbackChangesDialog" timestamp="1608795593415">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="323" y="0" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1608795593415" />
+    <state x="206" y="0" key="SettingsEditor" timestamp="1608860633461">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="206" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1608860633461" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/window/getWindow.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

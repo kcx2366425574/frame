@@ -17,5 +17,6 @@ def record(fn):
     def logrecord(*args):
         print("{}:------{} with {} runs".format(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()), fn, str(args)))
         LOG.info("{}:------{} with {} runs".format(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()), fn, str(args)))
-        fn(*args)
+        return fn(*args)
     return logrecord
+
