@@ -72,6 +72,14 @@
       <change afterPath="$PROJECT_DIR$/../../exe/Tiled/util/java/tmxviewer-java/tmxviewer-java.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/ccwork/node_modules/match-stream/.idea/match-stream.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/ccwork/node_modules/unzip/node_modules/match-stream/.idea/match-stream.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/APScheduler-3.6.3.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/APScheduler-3.6.3.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/APScheduler-3.6.3.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/APScheduler-3.6.3.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/APScheduler-3.6.3.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/APScheduler-3.6.3.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/APScheduler-3.6.3.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/APScheduler-3.6.3.dist-info/top_level.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/Babel-2.9.0.dist-info/INSTALLER" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/Babel-2.9.0.dist-info/LICENSE" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/Babel-2.9.0.dist-info/METADATA" afterDir="false" />
@@ -333,6 +341,44 @@
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/amqp/spec.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/amqp/transport.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/amqp/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/events.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/executors/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/executors/asyncio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/executors/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/executors/base_py3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/executors/debug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/executors/gevent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/executors/pool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/executors/tornado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/executors/twisted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/job.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/jobstores/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/jobstores/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/jobstores/memory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/jobstores/mongodb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/jobstores/redis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/jobstores/rethinkdb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/jobstores/sqlalchemy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/jobstores/zookeeper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/schedulers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/schedulers/asyncio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/schedulers/background.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/schedulers/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/schedulers/blocking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/schedulers/gevent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/schedulers/qt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/schedulers/tornado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/schedulers/twisted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/triggers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/triggers/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/triggers/combining.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/triggers/cron/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/triggers/cron/expressions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/triggers/cron/fields.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/triggers/date.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/triggers/interval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/apscheduler/util.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/arrayfire-3.6.20181017.dist-info/INSTALLER" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/arrayfire-3.6.20181017.dist-info/LICENSE" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/arrayfire-3.6.20181017.dist-info/METADATA" afterDir="false" />
@@ -3998,6 +4044,18 @@
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/statsd/defaults/django.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/statsd/defaults/env.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/statsd/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/tzlocal-2.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/tzlocal-2.1.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/tzlocal-2.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/tzlocal-2.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/tzlocal-2.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/tzlocal-2.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/tzlocal-2.1.dist-info/zip-safe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/tzlocal/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/tzlocal/unix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/tzlocal/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/tzlocal/win32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/tzlocal/windows_tz.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/vine-5.0.0.dist-info/INSTALLER" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/vine-5.0.0.dist-info/LICENSE" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../exe/python/Lib/site-packages/vine-5.0.0.dist-info/METADATA" afterDir="false" />
@@ -4486,13 +4544,14 @@
       <change afterPath="$PROJECT_DIR$/../../exe/python/include/pygame/surface.h" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ceilometer" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../chineseocr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat/serversocket_test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat/serversocket_test/client_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat/serversocket_test/serversocket_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat/socket/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/window/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/window/click_hwnd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/window/getWindow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/abstractFactoryPattern/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/abstractFactoryPattern/abstractFactory.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/abstractFactoryPattern/statics/abstractFactory.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/factoryPattern/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/factoryPattern/facotory.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/factoryPattern/factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/factoryPattern/statics/factory.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../gocode/.idea/gocode.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../gocode/interfaceDemo/interfaceDemo.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../gocode/iotaDemo.go" afterDir="false" />
@@ -4502,12 +4561,17 @@
       <change afterPath="$PROJECT_DIR$/../gocode/print_var.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../gocode/structDemo.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../gocode/typeDemo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interviewGuide" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../pluto" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../telegraf/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../telegraf/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../telegraf/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../telegraf/.idea/telegraf.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../telegraf/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegraf/shell/anytest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegraf/shell/anytest/listTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegraf/shell/apscheduleDemo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegraf/shell/apscheduleDemo/apscheduleDemo.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../telegraf/shell/decorator/anotherDemo.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../telegraf/shell/decorator/decoratorDemo.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../telegraf/shell/get_ipconfig.py" afterDir="false" />
@@ -4680,13 +4744,6 @@
       <change afterPath="$PROJECT_DIR$/../../工作簿1.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../charm-neutron-gateway/hooks/neutron_contexts.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../charm-neutron-gateway/hooks/neutron_contexts.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat/multiplePerson/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/socket/multiplePerson/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat/multiplePerson/chatclient.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/socket/multiplePerson/chatclient.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat/multiplePerson/chatserver.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/socket/multiplePerson/chatserver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat/singlePerson/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/socket/singlePerson/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat/singlePerson/chatclient.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/socket/singlePerson/chatclient.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat/singlePerson/chatserver.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/socket/singlePerson/chatserver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webutils/logrecord.py" beforeDir="false" afterPath="$PROJECT_DIR$/webutils/logrecord.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -4729,6 +4786,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\gitcode\frame\design_pattern\factoryPattern\statics" />
       <recent name="D:\gitcode\frame\chat\socket" />
       <recent name="D:\gitcode\frame\chat\singlePerson" />
     </key>
@@ -4897,22 +4955,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1608859009352" />
-    <state width="795" height="194" key="GridCell.Tab.0.bottom" timestamp="1608875491777">
+    <state width="1237" height="38" key="GridCell.Tab.0.bottom" timestamp="1608876023896">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="795" height="194" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1608875491777" />
-    <state width="795" height="194" key="GridCell.Tab.0.center" timestamp="1608875491776">
+    <state width="1237" height="38" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1608876023896" />
+    <state width="1237" height="38" key="GridCell.Tab.0.center" timestamp="1608876023895">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="795" height="194" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1608875491776" />
-    <state width="795" height="194" key="GridCell.Tab.0.left" timestamp="1608875491776">
+    <state width="1237" height="38" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1608876023895" />
+    <state width="1237" height="38" key="GridCell.Tab.0.left" timestamp="1608876023895">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="795" height="194" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1608875491776" />
-    <state width="795" height="194" key="GridCell.Tab.0.right" timestamp="1608875491777">
+    <state width="1237" height="38" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1608876023895" />
+    <state width="1237" height="38" key="GridCell.Tab.0.right" timestamp="1608876023896">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="795" height="194" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1608875491777" />
+    <state width="1237" height="38" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1608876023896" />
     <state width="1237" height="200" key="GridCell.Tab.1.bottom" timestamp="1608866214916">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
