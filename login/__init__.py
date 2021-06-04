@@ -16,8 +16,3 @@ cfg_opts = [
 ]
 CONF.register_group(cfg_group)
 CONF.register_opts(cfg_opts, cfg_group)
-
-
-def loginauth(path, username, password):
-    name = cfg.CONF.DEFAULT.username
-    pwd = cfg.CONF.DEFAULT.password
